@@ -1,5 +1,7 @@
 # File Sync to S3 with macOS Notifications
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform: macOS](https://img.shields.io/badge/platform-macOS-blue)
+![Shell: Bash](https://img.shields.io/badge/shell-bash-89E051)
 
 A lightweight macOS solution that automatically monitors file changes and syncs them to AWS S3 in real-time. When a file is modified, the system instantly uploads it to your specified S3 bucket and sends a desktop notification confirming the successful sync. Perfect for backing up important files, sharing updates across devices, or maintaining cloud backups of critical documents.
 
